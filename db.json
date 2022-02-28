@@ -1,32 +1,30 @@
 {
-    "notification":
-    [
-    {
-      "ClientName": "Client1",
-      "NotificationUsers": [
+    "notification": [
         {
-          "EnterpriseId": "a.d",
-          "FirstName": "a",
-          "LastName": "d",
-          "Reminder": true,
-          "Escalation1": false,
-          "Escalation2": true,
-          "Email": true,
-          "Teams": false
-        },
-        {
-          "EnterpriseId": "q.d",
-          "FirstName": "q",
-          "LastName": "d",
-          "Reminder": true,
-          "Escalation1": false,
-          "Escalation2": true,
-          "Email": true,
-          "Teams": false
+            "ClientName": "Client1",
+            "NotificationUsers": [
+                {
+                    "EnterpriseId": "a.d",
+                    "FirstName": "a",
+                    "LastName": "d",
+                    "Reminder": true,
+                    "Escalation1": false,
+                    "Escalation2": true,
+                    "Email": true,
+                    "Teams": false
+                },
+                {
+                    "EnterpriseId": "q.d",
+                    "FirstName": "q",
+                    "LastName": "d",
+                    "Reminder": true,
+                    "Escalation1": false,
+                    "Escalation2": true,
+                    "Email": true,
+                    "Teams": false
+                }
+            ],
+            "EnableNotification": true
         }
-      ],
-      "EnableNotification": true
-    }
-  ]
-
+    ]
 }

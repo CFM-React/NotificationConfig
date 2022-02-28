@@ -1,6 +1,6 @@
 [
-  {
-  "notification"{
+  
+  "notification":{
     "ClientName": "Client1",
     "NotificationUsers": [
       {
@@ -26,5 +26,5 @@
     ],
     "EnableNotification": true
   }
-}
+
 ]

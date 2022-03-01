@@ -5,7 +5,6 @@
             "ClientName": "Client1",
             "NotificationUsers": [
                 {   
-                    "id":1,
                     "EnterpriseId": "a.d",
                     "FirstName": "a",
                     "LastName": "d",
@@ -16,7 +15,6 @@
                     "Teams": false
                 },
                 {
-                    "id":2,
                     "EnterpriseId": "q.d",
                     "FirstName": "q",
                     "LastName": "d",

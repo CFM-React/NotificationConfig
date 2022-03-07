@@ -1,27 +1,28 @@
 {
     "notification": [
-        {   
-            "id":1,
-            "notification":1,
+        {
             "ClientName": "Client1",
+            "ContractName": "Contract2",
             "NotificationUsers": [
-                {   
-                    "EnterpriseId": "a.d",
-                    "FirstName": "a",
-                    "LastName": "d",
+                {
+                    "EnterpriseId": "abhilash.dc",
+                    "FirstName": "abhilash",
+                    "LastName": "dc",
+                    "RoleName": "Agent",
                     "Reminder": true,
-                    "Escalation1": false,
-                    "Escalation2": true,
+                    "Escalation1": true,
+                    "Escalation2": false,
                     "Email": true,
                     "Teams": false
                 },
                 {
-                    "EnterpriseId": "q.d",
-                    "FirstName": "q",
-                    "LastName": "d",
+                    "EnterpriseId": "abhilash.dc",
+                    "FirstName": "abhilash",
+                    "LastName": "dc",
+                    "RoleName": "CFM_User",
                     "Reminder": true,
                     "Escalation1": false,
-                    "Escalation2": true,
+                    "Escalation2": false,
                     "Email": true,
                     "Teams": false
                 }

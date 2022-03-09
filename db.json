@@ -1,8 +1,24 @@
 {
     "notification": [
         {
-            "id": 1,
-            "notification": 1,
+            "ClientName": "Client1",
+            "ContractName": "Contract1",
+            "NotificationUsers": [
+                {
+                    "EnterpriseId": "n.h.ramachandran",
+                    "FirstName": "n.h",
+                    "LastName": "ramachandran",
+                    "RoleName": "Admin",
+                    "Reminder": false,
+                    "Escalation1": true,
+                    "Escalation2": true,
+                    "Email": false,
+                    "Teams": false
+                }
+            ],
+            "EnableNotification": true
+        },
+        {
             "ClientName": "Client1",
             "ContractName": "Contract2",
             "NotificationUsers": [

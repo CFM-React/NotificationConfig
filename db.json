@@ -1,6 +1,8 @@
 {
     "notification": [
         {
+            "id":1,
+            "notification":1,
             "ClientName": "Client1",
             "ContractName": "Contract1",
             "NotificationUsers": [
